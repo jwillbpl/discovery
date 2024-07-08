@@ -1,0 +1,289 @@
+[
+    {
+      "Service Name": "Libby",
+      "Type": "Free Platforms",
+      "Category": "Reading, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Hoopla",
+      "Type": "Free Platforms",
+      "Category": "Reading, Movies & TV, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Kanopy",
+      "Type": "Free Platforms",
+      "Category": "Movies & TV, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "LinkedInLearning",
+      "Type": "Free Platforms",
+      "Category": "Learning, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Mango Languages",
+      "Type": "Free Platforms",
+      "Category": "Learning",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "JSTOR",
+      "Type": "Free Platforms",
+      "Category": "Research, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "The Wall Street Journal",
+      "Type": "Free Platforms",
+      "Category": "Reading, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "The Boston Globe",
+      "Type": "Free Platforms",
+      "Category": "Reading, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "The New York Times",
+      "Type": "Free Platforms",
+      "Category": "Reading, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "PressReader",
+      "Type": "Free Platforms",
+      "Category": "Reading, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Ancestry",
+      "Type": "Free Platforms",
+      "Category": "Research, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Atlascope",
+      "Type": "Free Platforms",
+      "Category": "Research",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "biblio+",
+      "Type": "Free Platforms",
+      "Category": "Movies & TV",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "ComicsPlus",
+      "Type": "Free Platforms",
+      "Category": "Reading, Popular",
+      "Audience": "Kids, Teens",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "CreativeBug",
+      "Type": "Free Platforms",
+      "Category": "Learning",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Digital Commonwealth",
+      "Type": "Free Platforms",
+      "Category": "Research",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Fastcase",
+      "Type": "Free Platforms",
+      "Category": "Research",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Flipster",
+      "Type": "Free Platforms",
+      "Category": "Reading, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Gale Academic OneFile",
+      "Type": "Free Platforms",
+      "Category": "Research",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Google Career Certificates",
+      "Type": "Events & Classes",
+      "Category": "Learning, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Skillmill",
+      "Type": "Free Platforms",
+      "Category": "Learning, Popular",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "MyHeritage",
+      "Type": "Free Platforms",
+      "Category": "Research",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Book a Meeting Room",
+      "Type": "Library Services & Spaces",
+      "Category": "Services & Spaces, Popular",
+      "Audience": "Adults",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Use a Desktop Computer",
+      "Type": "Library Services & Spaces",
+      "Category": "Services & Spaces, Popular",
+      "Audience": "Adults, Teens",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Adobe Creative Cloud",
+      "Type": "Library Services & Spaces",
+      "Category": "Services & Spaces",
+      "Audience": "Adults, Teens",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Multimedia Studio",
+      "Type": "Library Services & Spaces",
+      "Category": "Services & Spaces",
+      "Audience": "Adults, Teens",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Boston Children's Museum Pass",
+      "Type": "Museum Passes",
+      "Category": "Arts & Culture",
+      "Audience": "Kids",
+      "Location": "Boston Area"
+    },
+    {
+      "Service Name": "New England Aquarium Museum Pass",
+      "Type": "Museum Passes",
+      "Category": "Arts & Culture, Popular",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "Boston Area"
+    },
+    {
+      "Service Name": "Author Talks",
+      "Type": "Events & Classes",
+      "Category": "Reading, Arts & Culture",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Storytimes and Sensory Play",
+      "Type": "Events & Classes",
+      "Category": "Learning",
+      "Audience": "Kids",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Notary Services",
+      "Type": "Library Services & Spaces",
+      "Category": "Services & Spaces",
+      "Audience": "Adults",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Book Recommendations",
+      "Type": "Library Services & Spaces",
+      "Category": "Reading, Popular",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Spanish Language Collections",
+      "Type": "Library Services & Spaces",
+      "Category": "Reading",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "Online, In the Library"
+    },
+    {
+      "Service Name": "Haitian-Creole Collections",
+      "Type": "Library Services & Spaces",
+      "Category": "Reading",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "Online, In the Library"
+    },
+    {
+      "Service Name": "Mandarin Collections",
+      "Type": "Library Services & Spaces",
+      "Category": "Reading",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "Online, In the Library"
+    },
+    {
+      "Service Name": "ESOL classes",
+      "Type": "Events  & Classes",
+      "Category": "Learning, Popular",
+      "Audience": "Adults",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Computer & Technology Classes",
+      "Type": "Events & Classes",
+      "Category": "Learning, Popular",
+      "Audience": "Adults",
+      "Location": "In the Library"
+    },
+    {
+      "Service Name": "Earn your High School Diploma Online",
+      "Type": "Free Platforms",
+      "Category": "Learning",
+      "Audience": "Adults",
+      "Location": "Online"
+    },
+    {
+      "Service Name": "Museum of Fine Arts Museum Pass",
+      "Type": "Museum Passes",
+      "Category": "Arts & Culture, Popular",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "Boston Area"
+    },
+    {
+      "Service Name": "Zoo New England Pass",
+      "Type": "Museum Passes",
+      "Category": "Arts & Culture",
+      "Audience": "Adults, Kids",
+      "Location": "Boston Area"
+    },
+    {
+      "Service Name": "Isabella Stewart Gardner Museum Pass",
+      "Type": "Museum Passes",
+      "Category": "Arts & Culture",
+      "Audience": "Adults, Teens, Kids",
+      "Location": "Boston Area"
+    }
+  ]

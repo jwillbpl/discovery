@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" type="module"></script>
+    
+    <title>Discovery Tool</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Discover BPL</h1>
+            <p>Browse Popular and Featured Resources</p>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="filters">
+                <div class="select-group">
+                    <label for="Type">Type</label>
+                    <select name="Type" id="type-select">
+                        <option value="all">View All</option>
+                        <option value="Free Platforms">Free Platforms</option>
+                        <option value="Events & Classes">Events & Classes</option>
+                        <option value="Library Services & Spaces">Library Services & Spaces</option>
+                        <option value="Museum Passes">Museum Passes</option>
+                    </select>
+                </div>
+                <div class="select-group">
+                    <label for="Category">Category</label>
+                    <select name="Category" id="category-select">
+                        <option value="all">View All</option>
+                        <option value="Popular">Popular</option>
+                        <option value="Reading">Reading</option>
+                        <option value="Research">Research</option>
+                        <option value="Arts & Culture">Arts & Culture</option>
+                        <option value="Movies & TV">Movies & TV</option>
+                        <option value="Services & Spaces">Services & Spaces</option>
+                    </select>
+                </div>
+                <div class="select-group">
+                    <label for="Audience">Audience</label>
+                    <select name="Audience" id="audience-select">
+                        <option value="all">View All</option>
+                        <option value="Kids">Kids</option>
+                        <option value="Adults">Adults</option>
+                        <option value="Teens">Teens</option>
+                    </select>
+                </div>
+                <div class="select-group">
+                    <label for="Location">Location</label>
+                    <select name="Location" id="location-select">
+                        <option value="all">View All</option>
+                        <option value="Online">Online</option>
+                        <option value="In the Library">In the Library</option>
+                        <option value="Boston Area">Boston Area</option>
+                    </select>
+                </div>
+            </div>
+            <div class="resources"></div>
+        </div>
+    </main>
+</body>
+</html>
